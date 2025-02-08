@@ -8,6 +8,7 @@ Looping digunakan dalam menu dan daftar buku untuk perulangan data.
 Program ini simulasi sederhana dari sistem perpustakaan nyata yang memungkinkan pengguna melihat, meminjam, dan mengembalikan buku.
 
 Pseudocode
+
 Mulai
 1. Inisialisasi daftar buku, status ketersediaan buku, daftar anggota, dan daftar buku yang dipinjam.
 2. Ulangi langkah berikut sampai pengguna memilih keluar:
@@ -33,7 +34,7 @@ Mulai
       - Ubah status buku menjadi "Tersedia", hapus data buku yang dipinjam oleh anggota
    f. Jika pilihan = 4, tampilkan pesan keluar dan akhiri program
    g. Jika pilihan tidak valid, tampilkan pesan kesalahan
-  Selesai
+Selesai
 
 
 ![Flowchart_uas](https://github.com/user-attachments/assets/2fcd46b5-cc19-4203-8bfc-9a08e150f9ee)
