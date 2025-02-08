@@ -34,8 +34,7 @@ Mulai
       - Ubah status buku menjadi "Tersedia", hapus data buku yang dipinjam oleh anggota
    f. Jika pilihan = 4, tampilkan pesan keluar dan akhiri program
    g. Jika pilihan tidak valid, tampilkan pesan kesalahan
-Selesai
-
+   Selesai
 
 ![Flowchart_uas](https://github.com/user-attachments/assets/2fcd46b5-cc19-4203-8bfc-9a08e150f9ee)
 ![uas output sistem perpustakaan 1](https://github.com/user-attachments/assets/bf9ce2c3-41e0-479c-9157-84cb0f24c463)
