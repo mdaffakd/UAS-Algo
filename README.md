@@ -13,10 +13,10 @@ Mulai
 1. Inisialisasi daftar buku, status ketersediaan buku, daftar anggota, dan daftar buku yang dipinjam.
 2. Ulangi langkah berikut sampai pengguna memilih keluar:
    a. Tampilkan menu utama:
-      - 1: Lihat Buku
-      - 2: Pinjam Buku
-      - 3: Kembalikan Buku
-      - 4: Keluar
+   - 1: Lihat Buku
+   - 2: Pinjam Buku
+   - 3: Kembalikan Buku
+   - 4: Keluar
    b. Input pilihan menu
    c. Jika pilihan = 1, tampilkan daftar buku beserta statusnya
    d. Jika pilihan = 2:
